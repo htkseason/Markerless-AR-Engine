@@ -4,5 +4,9 @@ This project is based on [VisionModelLib](https://github.com/htkseason/VisionMod
   
 ----  
   
+This AR program is mainly based on two approaches, KAZE feature extraction and Optical Flow tracking.  
+  
+----  
+  
 __Demo__  
 <img src="https://github.com/htkseason/Markerless-AR-Engine/blob/master/demo.jpg" width="75%" alt="demo" />  
